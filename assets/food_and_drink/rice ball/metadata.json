@@ -1,0 +1,19 @@
+{
+	"cldr": "rice ball",
+	"fromVersion": "0.6",
+	"glyph": "🍙",
+	"glyphAsUtfInEmoticons": [
+		"1f359_riceball"
+	],
+	"group": "food_and_drink",
+	"keywords": [
+		"ball",
+		"Japanese",
+		"rice"
+	],
+	"mappedToEmoticons": [
+		"1f359_riceball"
+	],
+	"tts": "rice ball",
+	"unicode": "1f359"
+}

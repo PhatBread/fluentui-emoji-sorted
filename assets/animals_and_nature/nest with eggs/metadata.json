@@ -1,0 +1,12 @@
+{
+	"cldr": "nest with eggs",
+	"fromVersion": "14.0",
+	"glyph": "🪺",
+	"group": "animals_and_nature",
+	"keywords": [
+		"nest with eggs",
+		"nesting"
+	],
+	"tts": "nest with eggs",
+	"unicode": "1faba"
+}

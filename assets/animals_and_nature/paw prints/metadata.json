@@ -1,0 +1,20 @@
+{
+	"cldr": "paw prints",
+	"fromVersion": "0.6",
+	"glyph": "🐾",
+	"glyphAsUtfInEmoticons": [
+		"1f43e_pawprints"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"feet",
+		"paw",
+		"paw prints",
+		"print"
+	],
+	"mappedToEmoticons": [
+		"1f43e_pawprints"
+	],
+	"tts": "paw prints",
+	"unicode": "1f43e"
+}

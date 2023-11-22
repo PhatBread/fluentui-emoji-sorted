@@ -1,0 +1,18 @@
+{
+	"cldr": "fox",
+	"fromVersion": "3.0",
+	"glyph": "🦊",
+	"glyphAsUtfInEmoticons": [
+		"foxhug"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"face",
+		"fox"
+	],
+	"mappedToEmoticons": [
+		"foxhug"
+	],
+	"tts": "fox",
+	"unicode": "1f98a"
+}

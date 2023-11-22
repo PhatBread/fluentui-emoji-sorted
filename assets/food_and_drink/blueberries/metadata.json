@@ -1,0 +1,21 @@
+{
+	"cldr": "blueberries",
+	"fromVersion": "13.0",
+	"glyph": "🫐",
+	"glyphAsUtfInEmoticons": [
+		"blueberries"
+	],
+	"group": "food_and_drink",
+	"keywords": [
+		"berry",
+		"bilberry",
+		"blue",
+		"blueberries",
+		"blueberry"
+	],
+	"mappedToEmoticons": [
+		"blueberries"
+	],
+	"tts": "blueberries",
+	"unicode": "1fad0"
+}

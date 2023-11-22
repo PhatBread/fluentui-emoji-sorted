@@ -1,0 +1,18 @@
+{
+	"cldr": "duck",
+	"fromVersion": "3.0",
+	"glyph": "🦆",
+	"glyphAsUtfInEmoticons": [
+		"1f986_duck"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"bird",
+		"duck"
+	],
+	"mappedToEmoticons": [
+		"1f986_duck"
+	],
+	"tts": "duck",
+	"unicode": "1f986"
+}

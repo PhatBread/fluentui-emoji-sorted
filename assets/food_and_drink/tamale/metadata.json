@@ -1,0 +1,19 @@
+{
+	"cldr": "tamale",
+	"fromVersion": "13.0",
+	"glyph": "🫔",
+	"glyphAsUtfInEmoticons": [
+		"tamale"
+	],
+	"group": "food_and_drink",
+	"keywords": [
+		"mexican",
+		"tamale",
+		"wrapped"
+	],
+	"mappedToEmoticons": [
+		"tamale"
+	],
+	"tts": "tamale",
+	"unicode": "1fad4"
+}

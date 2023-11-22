@@ -1,0 +1,18 @@
+{
+	"cldr": "department store",
+	"fromVersion": "0.6",
+	"glyph": "🏬",
+	"glyphAsUtfInEmoticons": [
+		"1f3ec_departmentstore"
+	],
+	"group": "travel_and_places",
+	"keywords": [
+		"department",
+		"store"
+	],
+	"mappedToEmoticons": [
+		"1f3ec_departmentstore"
+	],
+	"tts": "department store",
+	"unicode": "1f3ec"
+}

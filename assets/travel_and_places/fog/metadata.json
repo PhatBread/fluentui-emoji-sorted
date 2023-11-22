@@ -1,0 +1,15 @@
+{
+	"cldr": "fog",
+	"fromVersion": "0.7",
+	"glyph": "🌫️",
+	"group": "travel_and_places",
+	"keywords": [
+		"cloud",
+		"fog"
+	],
+	"mappedToEmoticons": [
+		"1f32b_fog"
+	],
+	"tts": "fog",
+	"unicode": "1f32b fe0f"
+}

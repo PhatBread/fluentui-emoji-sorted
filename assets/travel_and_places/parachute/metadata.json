@@ -1,0 +1,20 @@
+{
+	"cldr": "parachute",
+	"fromVersion": "12.0",
+	"glyph": "🪂",
+	"glyphAsUtfInEmoticons": [
+		"1fa82_parachute"
+	],
+	"group": "travel_and_places",
+	"keywords": [
+		"hang-glide",
+		"parachute",
+		"parasail",
+		"skydive"
+	],
+	"mappedToEmoticons": [
+		"1fa82_parachute"
+	],
+	"tts": "parachute",
+	"unicode": "1fa82"
+}

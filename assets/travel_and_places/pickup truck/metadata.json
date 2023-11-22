@@ -1,0 +1,19 @@
+{
+	"cldr": "pickup truck",
+	"fromVersion": "13.0",
+	"glyph": "🛻",
+	"glyphAsUtfInEmoticons": [
+		"pickuptruck"
+	],
+	"group": "travel_and_places",
+	"keywords": [
+		"pick-up",
+		"pickup",
+		"truck"
+	],
+	"mappedToEmoticons": [
+		"pickuptruck"
+	],
+	"tts": "pickup truck",
+	"unicode": "1f6fb"
+}

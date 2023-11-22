@@ -1,0 +1,20 @@
+{
+	"cldr": "custard",
+	"fromVersion": "0.6",
+	"glyph": "🍮",
+	"glyphAsUtfInEmoticons": [
+		"1f36e_custard"
+	],
+	"group": "food_and_drink",
+	"keywords": [
+		"custard",
+		"dessert",
+		"pudding",
+		"sweet"
+	],
+	"mappedToEmoticons": [
+		"1f36e_custard"
+	],
+	"tts": "custard",
+	"unicode": "1f36e"
+}

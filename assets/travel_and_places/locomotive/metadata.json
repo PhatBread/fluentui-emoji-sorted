@@ -1,0 +1,21 @@
+{
+	"cldr": "locomotive",
+	"fromVersion": "1.0",
+	"glyph": "🚂",
+	"glyphAsUtfInEmoticons": [
+		"steamtrain"
+	],
+	"group": "travel_and_places",
+	"keywords": [
+		"engine",
+		"locomotive",
+		"railway",
+		"steam",
+		"train"
+	],
+	"mappedToEmoticons": [
+		"steamtrain"
+	],
+	"tts": "locomotive",
+	"unicode": "1f682"
+}

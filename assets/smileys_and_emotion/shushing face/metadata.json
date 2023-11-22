@@ -1,0 +1,19 @@
+{
+	"cldr": "shushing face",
+	"fromVersion": "5.0",
+	"glyph": "🤫",
+	"glyphAsUtfInEmoticons": [
+		"lipssealed"
+	],
+	"group": "smileys_and_emotion",
+	"keywords": [
+		"quiet",
+		"shush",
+		"shushing face"
+	],
+	"mappedToEmoticons": [
+		"lipssealed"
+	],
+	"tts": "shushing face",
+	"unicode": "1f92b"
+}

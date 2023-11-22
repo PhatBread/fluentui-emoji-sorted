@@ -1,0 +1,17 @@
+{
+	"cldr": "tiger",
+	"fromVersion": "1.0",
+	"glyph": "🐅",
+	"glyphAsUtfInEmoticons": [
+		"1f405_tiger"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"tiger"
+	],
+	"mappedToEmoticons": [
+		"1f405_tiger"
+	],
+	"tts": "tiger",
+	"unicode": "1f405"
+}

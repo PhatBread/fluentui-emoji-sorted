@@ -1,0 +1,19 @@
+{
+	"cldr": "bear",
+	"fromVersion": "0.6",
+	"glyph": "🐻",
+	"glyphAsUtfInEmoticons": [
+		"1f43b_bearface",
+		"polarbear"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"bear",
+		"face"
+	],
+	"mappedToEmoticons": [
+		"1f43b_bearface"
+	],
+	"tts": "bear",
+	"unicode": "1f43b"
+}

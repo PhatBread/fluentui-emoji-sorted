@@ -1,0 +1,18 @@
+{
+	"cldr": "rat",
+	"fromVersion": "1.0",
+	"glyph": "🐀",
+	"glyphAsUtfInEmoticons": [
+		"1f400_rat",
+		"yotr"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"rat"
+	],
+	"mappedToEmoticons": [
+		"1f400_rat"
+	],
+	"tts": "rat",
+	"unicode": "1f400"
+}

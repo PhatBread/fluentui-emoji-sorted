@@ -1,0 +1,19 @@
+{
+	"cldr": "beetle",
+	"fromVersion": "13.0",
+	"glyph": "🪲",
+	"glyphAsUtfInEmoticons": [
+		"beetle"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"beetle",
+		"bug",
+		"insect"
+	],
+	"mappedToEmoticons": [
+		"beetle"
+	],
+	"tts": "beetle",
+	"unicode": "1fab2"
+}

@@ -1,0 +1,18 @@
+{
+	"cldr": "peach",
+	"fromVersion": "0.6",
+	"glyph": "🍑",
+	"glyphAsUtfInEmoticons": [
+		"peach"
+	],
+	"group": "food_and_drink",
+	"keywords": [
+		"fruit",
+		"peach"
+	],
+	"mappedToEmoticons": [
+		"peach"
+	],
+	"tts": "peach",
+	"unicode": "1f351"
+}

@@ -1,0 +1,17 @@
+{
+	"cldr": "whale",
+	"fromVersion": "1.0",
+	"glyph": "🐋",
+	"glyphAsUtfInEmoticons": [
+		"whale"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"whale"
+	],
+	"mappedToEmoticons": [
+		"whale"
+	],
+	"tts": "whale",
+	"unicode": "1f40b"
+}

@@ -1,0 +1,18 @@
+{
+	"cldr": "cat",
+	"fromVersion": "0.7",
+	"glyph": "🐈",
+	"glyphAsUtfInEmoticons": [
+		"cat"
+	],
+	"group": "animals_and_nature",
+	"keywords": [
+		"cat",
+		"pet"
+	],
+	"mappedToEmoticons": [
+		"cat"
+	],
+	"tts": "cat",
+	"unicode": "1f408"
+}

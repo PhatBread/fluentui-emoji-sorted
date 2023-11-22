@@ -1,0 +1,19 @@
+{
+	"cldr": "heart with ribbon",
+	"fromVersion": "0.6",
+	"glyph": "💝",
+	"glyphAsUtfInEmoticons": [
+		"1f49d_heartwithribbon"
+	],
+	"group": "smileys_and_emotion",
+	"keywords": [
+		"heart with ribbon",
+		"ribbon",
+		"valentine"
+	],
+	"mappedToEmoticons": [
+		"1f49d_heartwithribbon"
+	],
+	"tts": "heart with ribbon",
+	"unicode": "1f49d"
+}

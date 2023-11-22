@@ -1,0 +1,15 @@
+{
+	"cldr": "worried face",
+	"fromVersion": "1.0",
+	"glyph": "😟",
+	"group": "smileys_and_emotion",
+	"keywords": [
+		"face",
+		"worried"
+	],
+	"mappedToEmoticons": [
+		"worry"
+	],
+	"tts": "worried face",
+	"unicode": "1f61f"
+}

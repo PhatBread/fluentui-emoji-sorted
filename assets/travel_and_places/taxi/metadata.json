@@ -1,0 +1,18 @@
+{
+	"cldr": "taxi",
+	"fromVersion": "0.6",
+	"glyph": "🚕",
+	"glyphAsUtfInEmoticons": [
+		"taxi"
+	],
+	"group": "travel_and_places",
+	"keywords": [
+		"taxi",
+		"vehicle"
+	],
+	"mappedToEmoticons": [
+		"taxi"
+	],
+	"tts": "taxi",
+	"unicode": "1f695"
+}
